@@ -98,9 +98,9 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D12
-    D13
-    D27
+    D25
+    D48
+    D49
     D57
     D58
     D59
@@ -221,9 +221,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D27
-    D28
-    D82
+    D25
+    D50
+    D69
     D97
     D98
     D99
@@ -301,10 +301,10 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D82
-    D102
-    D103
-    D117
+    D69
+    D115
+    D137
+    D138
     D145
     D146
     D147
@@ -322,16 +322,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : HSBNE-MOTOR.GBO
+Generating : Bottom Paste
+      File : HSBNE-MOTOR.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D57
-    D85
-    D94
+    D25
+    D48
+    D49
 *************************************************************
 
 *************************************************************
@@ -342,6 +346,6 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D91
+    D92
 *************************************************************
 

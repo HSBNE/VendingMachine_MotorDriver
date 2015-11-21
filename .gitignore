@@ -1,1 +1,6 @@
 *.REPPreview
+*.SchDocPreview
+*.PcbDocPreview
+*.Zip
+*.LOG
+Status Report.Txt
