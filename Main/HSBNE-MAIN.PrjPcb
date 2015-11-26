@@ -318,6 +318,10 @@ VariationCount=1
 Variation1=Designator=C24|UniqueId=\DNNOFDUU\KXAIRDFX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HSBNE-MAIN\Design Rule Check - HSBNE-MOTOR.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

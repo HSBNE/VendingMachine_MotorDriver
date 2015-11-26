@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: HSBNE-MOTOR.PcbDoc   11/21/2015  7:23:34 PM
+NCDrill File Report For: HSBNE-MOTOR.PcbDoc   11/26/2015  7:26:25 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : HSBNE-MOTOR.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             725       PTH        3006.02mm (118.35inch)
+T1      0.3mm (12mil)                                             Round             731       PTH        2995.67mm (117.94inch)
 T2      0.6mm (24mil)                                             Round             1         PTH        0.00mm (0.00inch)
-T3      1mm (39mil)                                               Round             15        PTH        102.77mm (4.05inch)
+T3      1mm (39mil)                                               Round             12        PTH        33.84mm (1.33inch)
 T4      1.016mm (40mil)                                           Round             48        PTH        445.88mm (17.55inch)
 T5      1.1mm (43mil)                                             Round             12        PTH        40.46mm (1.59inch)
 T6      1.5mm (59mil)                                             Round             4         PTH        17.82mm (0.70inch)
@@ -21,6 +21,6 @@ T11     3mm (118mil)                                              Round         
 T12     3.25mm (128mil)                                           Round             2         NPTH       12.70mm (0.50inch)
 T13     4.5mm (177mil)                                            Round             5         NPTH       353.80mm (13.93inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              825
+Totals                                                                              828
 
 Total Processing Time (hh:mm:ss) : 00:00:00

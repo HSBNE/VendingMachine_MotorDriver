@@ -4,3 +4,5 @@
 *.Zip
 *.LOG
 Status Report.Txt
+*.drc
+*.html
