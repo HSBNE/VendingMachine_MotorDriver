@@ -6,3 +6,6 @@
 Status Report.Txt
 *.drc
 *.html
+
+Debug/
+Release/
