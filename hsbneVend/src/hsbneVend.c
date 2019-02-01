@@ -33,9 +33,9 @@
 #include "inc/hw_types.h"
 #include "inc/hw_memmap.h"
 
-#include "pins_def.h"
 #include "d_ina226.h"
 #include "d_can.h"
+#include "pins_init.h"
 
 
 //****************************************************************************
